@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://github.com/subhamkapoor360/MLHelpers/blob/master/Cactus-Identification/Cactus_Identification.ipynb)]
+[![Open In Colab](https://github.com/subhamkapoor360/MLHelpers/blob/master/Cactus-Identification/Cactus_Identification.ipynb)]
 
 Dataset Links:
 
