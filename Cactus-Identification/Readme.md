@@ -1,4 +1,3 @@
-[![Open In Colab](https://github.com/subhamkapoor360/MLHelpers/blob/master/Cactus-Identification/Cactus_Identification.ipynb)]
 
 Dataset Links:
 
